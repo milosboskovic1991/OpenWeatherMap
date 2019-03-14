@@ -66,37 +66,37 @@ public class OpenWeatherMapController {
 		userService.deleteUser(id);
 	}
 	
-	@RequestMapping("city/forecast/{name}") //ne radi
+	@RequestMapping("city/forecast/{name}") 
 	public City getForecast(@PathVariable(name="name") String name) {
 		return cityService.getCityByName(name);
 	}
 	
-	@RequestMapping("city/findAll") //ne radi
+	@RequestMapping("city/findAll") 
 	public List<CityDto> findAll(){
 		return cityService.findAll();
 	}
 	
 	@PostMapping("addSubscription")
-	public Subscription subscribe(@RequestBody Subscription subscription, HttpServletRequest httpServletRequest) { //null pointeri kod maila
-		String email = (String) httpServletRequest.getSession().getAttribute("email"); // probao i sa sesijom i nece
+	public Subscription subscribe(@RequestBody Subscription subscription, HttpServletRequest httpServletRequest) { 
+		String email = loginService.getUserEmail(httpServletRequest.getHeader("token")); 
 		return userService.addSubscription(subscription, email);
 	}
 	
 	@RequestMapping("findAllSubscription")
-	public List<Subscription> listUserSubscriptions(HttpServletRequest httpServletRequest){ //null pointeri kod maila
-		String email = (String) httpServletRequest.getAttribute("email");
+	public List<Subscription> listUserSubscriptions(HttpServletRequest httpServletRequest){
+		String email = loginService.getUserEmail(httpServletRequest.getHeader("token")); 
 		return userService.findAllSubscription(email);
 	}
 	
 	@PutMapping("updateSubscription")
-	public Subscription updateSubscription(@RequestBody Subscription subscription, HttpServletRequest httpServletRequest) { //null pointeri kod maila
-		String email = (String) httpServletRequest.getAttribute("email");
+	public Subscription updateSubscription(@RequestBody Subscription subscription, HttpServletRequest httpServletRequest) { 
+		String email = loginService.getUserEmail(httpServletRequest.getHeader("token")); 
 		return userService.updateSubscription(subscription, email);
 	}
 	
 	@DeleteMapping("subscription/delete")
-	public void deleteSub(@RequestBody Subscription subscription,HttpServletRequest httpServletRequest) { //null pointeri kod maila
-		String email = (String) httpServletRequest.getAttribute("email");
+	public void deleteSub(@RequestBody Subscription subscription,HttpServletRequest httpServletRequest) { 
+		String email = loginService.getUserEmail(httpServletRequest.getHeader("token")); 
 		userService.deleteSubscription(subscription, email);
 	}
 	

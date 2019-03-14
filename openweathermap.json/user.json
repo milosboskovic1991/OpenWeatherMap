@@ -1,10 +1,16 @@
 [
 { 
-    "_id" : ObjectId("5c8a005a8365691294816bad"), 
-    "name" : "Marko", 
-    "surname" : "Markovic", 
-    "email" : "marko@gmail.com", 
+    "_id" : ObjectId("5c8a74e7c08ad157a8df9733"), 
+    "name" : "Zeljko", 
+    "surname" : "Zeljkovic", 
+    "email" : "zeljko@gmail.com", 
     "password" : "qwerty", 
+    "subscriptions" : [
+        {
+            "city" : "Kraljevo", 
+            "subscriptionType" : NumberLong(1)
+        }
+    ], 
     "_class" : "com.example.demo.entity.User"
 }
 ]

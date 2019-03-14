@@ -2,13 +2,11 @@ package com.example.demo.entity.dto;
 
 import java.util.Date;
 
-import org.bson.types.ObjectId;
-
 import com.example.demo.entity.City;
 
 public class CityDto {
 
-	private ObjectId id;
+	private String id;
 	private String name;
 	private Date lastWeatherInformation;
 	private Double currentTemperature;
@@ -17,7 +15,7 @@ public class CityDto {
 		super();
 	}
 
-	public CityDto(ObjectId id, String name, Date lastWeatherInformation, Double currentTemperature) {
+	public CityDto(String id, String name, Date lastWeatherInformation, Double currentTemperature) {
 		super();
 		this.id = id;
 		this.name = name;
@@ -32,11 +30,11 @@ public class CityDto {
 		this.currentTemperature = city.getMain().getTemp()-273.15;
 	}
 
-	public ObjectId getId() {
+	public String getId() {
 		return id;
 	}
 
-	public void setId(ObjectId id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 

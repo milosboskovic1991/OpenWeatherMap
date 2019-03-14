@@ -2,7 +2,6 @@ package com.example.demo.entity;
 
 import java.util.List;
 
-import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
@@ -10,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class User {
 
 	@Id
-	private ObjectId id;	
+	private String id;	
 	private String name;	
 	private String surname;	
 	private String email;	
@@ -21,7 +20,7 @@ public class User {
 		super();
 	}
 
-	public User(ObjectId id, String name, String surname, String email, String password,
+	public User(String id, String name, String surname, String email, String password,
 			List<Subscription> subscriptions) {
 		super();
 		this.id = id;
@@ -32,11 +31,11 @@ public class User {
 		this.subscriptions = subscriptions;
 	}
 
-	public ObjectId getId() {
+	public String getId() {
 		return id;
 	}
 
-	public void setId(ObjectId id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 

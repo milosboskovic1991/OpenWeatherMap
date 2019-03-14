@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
-import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
@@ -21,7 +20,7 @@ public class City {
 	private Long dt;
 	private Sys sys;
 	@Id
-	private ObjectId id;
+	private String id;
 	private String name;
 	private Date lastWeatherInformation;
 	private List<SavedTemperatures> savedTemperatures;
@@ -31,7 +30,7 @@ public class City {
 	}
 
 	public City(Coordinates coord, Weather[] weather, String base, Main main, Long visibility, Wind wind, Clouds clouds,
-			Long dt, Sys sys, ObjectId id, String name, Date lastWeatherInformation,
+			Long dt, Sys sys, String id, String name, Date lastWeatherInformation,
 			List<SavedTemperatures> savedTemperatures) {
 		super();
 		this.coord = coord;
@@ -45,7 +44,7 @@ public class City {
 		this.sys = sys;
 		this.id = id;
 		this.name = name;
-		this.lastWeatherInformation = lastWeatherInformation;
+		this.lastWeatherInformation = new Date();
 		this.savedTemperatures = savedTemperatures;
 	}
 
@@ -121,11 +120,11 @@ public class City {
 		this.sys = sys;
 	}
 
-	public ObjectId getId() {
+	public String getId() {
 		return id;
 	}
 
-	public void setId(ObjectId id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 

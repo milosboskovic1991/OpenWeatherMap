@@ -12,7 +12,7 @@ public class TemperatureUpdateScheduler {
 	@Autowired
 	CityService cityService;
 	
-	@Scheduled(cron="0 0 0/1 1/1 * ?")
+	@Scheduled(cron="0 0 0/1 1/1 * ?")//(cron="0 * * ? * *")
 	public void updateAllTemperatures() {
 		cityService.updateCityTemperature();
 	}
