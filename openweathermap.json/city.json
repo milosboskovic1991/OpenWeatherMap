@@ -1,0 +1,1814 @@
+[
+{ 
+    "_id" : ObjectId("5c898f1f83656928b08e116a"), 
+    "coord" : {
+        "lon" : 20.69, 
+        "lat" : 43.72
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.15, 
+        "pressure" : 1011.0, 
+        "humidity" : 78.0, 
+        "temp_min" : 278.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.1, 
+        "deg" : 130.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7029.0, 
+        "message" : 0.0036, 
+        "country" : "RS", 
+        "sunrise" : 1552452730.0, 
+        "sunset" : 1552495295.0
+    }, 
+    "id" : 789107.0, 
+    "name" : "Kraljevo"
+},
+{ 
+    "_id" : ObjectId("5c898fcb83656928b08e1175"), 
+    "coord" : {
+        "lon" : 20.46, 
+        "lat" : 44.82
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.64, 
+        "pressure" : 1012.0, 
+        "humidity" : 58.0, 
+        "temp_min" : 279.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 4.6, 
+        "deg" : 110.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7028.0, 
+        "message" : 0.0042, 
+        "country" : "RS", 
+        "sunrise" : 1552452804.0, 
+        "sunset" : 1552495334.0
+    }, 
+    "id" : 792680.0, 
+    "name" : "Belgrade"
+},
+{ 
+    "_id" : ObjectId("5c89900583656928b08e1179"), 
+    "coord" : {
+        "lon" : 19.85, 
+        "lat" : 45.26
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.67, 
+        "pressure" : 1012.0, 
+        "humidity" : 60.0, 
+        "temp_min" : 279.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 4.6, 
+        "deg" : 80.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7030.0, 
+        "message" : 0.0034, 
+        "country" : "RS", 
+        "sunrise" : 1552452957.0, 
+        "sunset" : 1552495473.0
+    }, 
+    "id" : 3194360.0, 
+    "name" : "Novi Sad"
+},
+{ 
+    "_id" : ObjectId("5c89903883656928b08e117a"), 
+    "coord" : {
+        "lon" : 20.91, 
+        "lat" : 44.01
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.15, 
+        "pressure" : 1011.0, 
+        "humidity" : 91.0, 
+        "temp_min" : 278.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.1, 
+        "deg" : 130.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7029.0, 
+        "message" : 0.0038, 
+        "country" : "RS", 
+        "sunrise" : 1552452682.0, 
+        "sunset" : 1552495238.0
+    }, 
+    "id" : 789128.0, 
+    "name" : "Kragujevac"
+},
+{ 
+    "_id" : ObjectId("5c89906983656928b08e117b"), 
+    "coord" : {
+        "lon" : 21.9, 
+        "lat" : 43.32
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.24, 
+        "pressure" : 1013.0, 
+        "humidity" : 56.0, 
+        "temp_min" : 277.59, 
+        "temp_max" : 279.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 2.1, 
+        "deg" : 170.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552519054.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7031.0, 
+        "message" : 0.007, 
+        "country" : "RS", 
+        "sunrise" : 1552452433.0, 
+        "sunset" : 1552495011.0
+    }, 
+    "id" : 787657.0, 
+    "name" : "Nis"
+},
+{ 
+    "_id" : ObjectId("5c8990a283656928b08e117c"), 
+    "coord" : {
+        "lon" : 17.11, 
+        "lat" : 43.38
+    }, 
+    "weather" : [
+        {
+            "id" : 501.0, 
+            "main" : "Rain", 
+            "description" : "moderate rain", 
+            "icon" : "10n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.29, 
+        "pressure" : 1011.0, 
+        "humidity" : 100.0, 
+        "temp_min" : 278.71, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 2.1, 
+        "deg" : 40.0
+    }, 
+    "clouds" : {
+        "all" : 75.0
+    }, 
+    "dt" : 1552518000.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 6905.0, 
+        "message" : 0.0048, 
+        "country" : "HR", 
+        "sunrise" : 1552453582.0, 
+        "sunset" : 1552496161.0
+    }, 
+    "id" : 3195890.0, 
+    "name" : "Krusevac"
+},
+{ 
+    "_id" : ObjectId("5c8990bf83656928b08e117d"), 
+    "coord" : {
+        "lon" : 20.34, 
+        "lat" : 43.89
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 275.43, 
+        "pressure" : 1011.0, 
+        "humidity" : 78.0, 
+        "temp_min" : 273.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.1, 
+        "deg" : 130.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7029.0, 
+        "message" : 0.0041, 
+        "country" : "RS", 
+        "sunrise" : 1552452816.0, 
+        "sunset" : 1552495377.0
+    }, 
+    "id" : 792078.0, 
+    "name" : "Cacak"
+},
+{ 
+    "_id" : ObjectId("5c89912483656928b08e117e"), 
+    "coord" : {
+        "lon" : 19.66, 
+        "lat" : 46.1
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.8, 
+        "pressure" : 1013.0, 
+        "humidity" : 52.0, 
+        "temp_min" : 277.59, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.6, 
+        "deg" : 170.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552519267.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 6677.0, 
+        "message" : 0.0036, 
+        "country" : "RS", 
+        "sunrise" : 1552453017.0, 
+        "sunset" : 1552495506.0
+    }, 
+    "id" : 3189595.0, 
+    "name" : "Subotica"
+},
+{ 
+    "_id" : ObjectId("5c89914383656928b08e117f"), 
+    "coord" : {
+        "lon" : 21.95, 
+        "lat" : 43.0
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.35, 
+        "pressure" : 1013.0, 
+        "humidity" : 56.0, 
+        "temp_min" : 277.59, 
+        "temp_max" : 279.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 2.1, 
+        "deg" : 170.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552519476.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7031.0, 
+        "message" : 0.0038, 
+        "country" : "RS", 
+        "sunrise" : 1552452415.0, 
+        "sunset" : 1552495004.0
+    }, 
+    "id" : 788709.0, 
+    "name" : "Leskovac"
+},
+{ 
+    "_id" : ObjectId("5c89915883656928b08e1180"), 
+    "coord" : {
+        "lon" : 21.9, 
+        "lat" : 42.55
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.89, 
+        "pressure" : 1014.0, 
+        "humidity" : 56.0, 
+        "temp_min" : 275.93, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 1.0, 
+        "deg" : 170.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552519129.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7023.0, 
+        "message" : 0.0043, 
+        "country" : "RS", 
+        "sunrise" : 1552452420.0, 
+        "sunset" : 1552495023.0
+    }, 
+    "id" : 784227.0, 
+    "name" : "Vranje"
+},
+{ 
+    "_id" : ObjectId("5c89917883656928b08e1181"), 
+    "coord" : {
+        "lon" : 21.0, 
+        "lat" : 43.62
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.15, 
+        "pressure" : 1011.0, 
+        "humidity" : 91.0, 
+        "temp_min" : 278.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.1, 
+        "deg" : 130.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7029.0, 
+        "message" : 0.0036, 
+        "country" : "RS", 
+        "sunrise" : 1552452653.0, 
+        "sunset" : 1552495223.0
+    }, 
+    "id" : 784873.0, 
+    "name" : "Trstenik"
+},
+{ 
+    "_id" : ObjectId("5c8991ac83656928b08e1182"), 
+    "coord" : {
+        "lon" : 19.64, 
+        "lat" : 45.57
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.15, 
+        "pressure" : 1012.0, 
+        "humidity" : 52.0, 
+        "temp_min" : 278.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 4.1, 
+        "deg" : 20.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552518000.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 6384.0, 
+        "message" : 0.0041, 
+        "country" : "RS", 
+        "sunrise" : 1552453013.0, 
+        "sunset" : 1552495519.0
+    }, 
+    "id" : 3187297.0, 
+    "name" : "Vrbas"
+},
+{ 
+    "_id" : ObjectId("5c8991d083656928b08e1183"), 
+    "coord" : {
+        "lon" : 20.39, 
+        "lat" : 45.38
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.67, 
+        "pressure" : 1012.0, 
+        "humidity" : 60.0, 
+        "temp_min" : 279.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 4.6, 
+        "deg" : 80.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7030.0, 
+        "message" : 0.004, 
+        "country" : "RS", 
+        "sunrise" : 1552452830.0, 
+        "sunset" : 1552495342.0
+    }, 
+    "id" : 783814.0, 
+    "name" : "Zrenjanin"
+},
+{ 
+    "_id" : ObjectId("5c89921283656928b08e1184"), 
+    "coord" : {
+        "lon" : 20.93, 
+        "lat" : 44.66
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.81, 
+        "pressure" : 1012.0, 
+        "humidity" : 74.0, 
+        "temp_min" : 279.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 4.6, 
+        "deg" : 110.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7028.0, 
+        "message" : 0.0035, 
+        "country" : "RS", 
+        "sunrise" : 1552452687.0, 
+        "sunset" : 1552495224.0
+    }, 
+    "id" : 785756.0, 
+    "name" : "Smederevo"
+},
+{ 
+    "_id" : ObjectId("5c89922f83656928b08e1185"), 
+    "coord" : {
+        "lon" : 21.19, 
+        "lat" : 44.62
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 280.15, 
+        "pressure" : 1013.0, 
+        "humidity" : 42.0, 
+        "temp_min" : 280.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 9.8, 
+        "deg" : 130.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7045.0, 
+        "message" : 0.0036, 
+        "country" : "RS", 
+        "sunrise" : 1552452624.0, 
+        "sunset" : 1552495162.0
+    }, 
+    "id" : 786827.0, 
+    "name" : "Pozarevac"
+},
+{ 
+    "_id" : ObjectId("5c89924f83656928b08e1186"), 
+    "coord" : {
+        "lon" : 20.56, 
+        "lat" : 44.31
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.17, 
+        "pressure" : 1011.0, 
+        "humidity" : 74.0, 
+        "temp_min" : 278.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.1, 
+        "deg" : 130.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7029.0, 
+        "message" : 0.0031, 
+        "country" : "RS", 
+        "sunrise" : 1552452770.0, 
+        "sunset" : 1552495318.0
+    }, 
+    "id" : 793111.0, 
+    "name" : "Arandjelovac"
+},
+{ 
+    "_id" : ObjectId("5c89926783656928b08e1187"), 
+    "coord" : {
+        "lon" : 19.89, 
+        "lat" : 44.27
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 276.97, 
+        "pressure" : 1010.0, 
+        "humidity" : 76.0, 
+        "temp_min" : 273.15, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 2.1, 
+        "deg" : 280.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552516200.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7042.0, 
+        "message" : 0.0039, 
+        "country" : "RS", 
+        "sunrise" : 1552452930.0, 
+        "sunset" : 1552495480.0
+    }, 
+    "id" : 3188402.0, 
+    "name" : "Valjevo"
+},
+{ 
+    "_id" : ObjectId("5c89928583656928b08e1188"), 
+    "coord" : {
+        "lon" : 20.46, 
+        "lat" : 44.02
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 276.51, 
+        "pressure" : 1011.0, 
+        "humidity" : 75.0, 
+        "temp_min" : 275.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 3.6, 
+        "deg" : 140.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552518000.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 7029.0, 
+        "message" : 0.0033, 
+        "country" : "RS", 
+        "sunrise" : 1552452789.0, 
+        "sunset" : 1552495347.0
+    }, 
+    "id" : 790367.0, 
+    "name" : "Gornji Milanovac"
+},
+{ 
+    "_id" : ObjectId("5c8992c583656928b08e118a"), 
+    "coord" : {
+        "lon" : 20.46, 
+        "lat" : 45.83
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.64, 
+        "pressure" : 1013.0, 
+        "humidity" : 64.0, 
+        "temp_min" : 277.04, 
+        "temp_max" : 278.71
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 2.6, 
+        "deg" : 100.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552519713.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 6926.0, 
+        "message" : 0.0044, 
+        "country" : "RS", 
+        "sunrise" : 1552452820.0, 
+        "sunset" : 1552495318.0
+    }, 
+    "id" : 789518.0, 
+    "name" : "Kikinda"
+},
+{ 
+    "_id" : ObjectId("5c8992d683656928b08e118b"), 
+    "coord" : {
+        "lon" : 19.11, 
+        "lat" : 45.77
+    }, 
+    "weather" : [
+        {
+            "id" : 800.0, 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01n"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.15, 
+        "pressure" : 1012.0, 
+        "humidity" : 52.0, 
+        "temp_min" : 278.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : 10000.0, 
+    "wind" : {
+        "speed" : 4.1, 
+        "deg" : 20.0
+    }, 
+    "clouds" : {
+        "all" : 0.0
+    }, 
+    "dt" : 1552518000.0, 
+    "sys" : {
+        "type" : 1.0, 
+        "id" : 6384.0, 
+        "message" : 0.0036, 
+        "country" : "RS", 
+        "sunrise" : 1552453143.0, 
+        "sunset" : 1552495644.0
+    }, 
+    "id" : 3190342.0, 
+    "name" : "Sombor"
+},
+{ 
+    "_id" : "789107", 
+    "coord" : {
+        "lon" : 20.69, 
+        "lat" : 43.72
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.15, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 277.15, 
+        "temp_max" : 277.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 0.5
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7029), 
+        "type" : NumberLong(1), 
+        "message" : 0.0048, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539091), 
+        "sunset" : NumberLong(1552581722)
+    }, 
+    "name" : "Kraljevo", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.478+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.478+0000"), 
+            "temperature" : 277.15
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "792680", 
+    "coord" : {
+        "lon" : 20.46, 
+        "lat" : 44.82
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 280.1, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(75), 
+        "temp_min" : 278.15, 
+        "temp_max" : 282.59
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 3.6, 
+        "deg" : 250.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552550165), 
+    "sys" : {
+        "_id" : NumberLong(7028), 
+        "type" : NumberLong(1), 
+        "message" : 0.0034, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539164), 
+        "sunset" : NumberLong(1552581762)
+    }, 
+    "name" : "Belgrade", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.506+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.506+0000"), 
+            "temperature" : 280.1
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "3194360", 
+    "coord" : {
+        "lon" : 19.85, 
+        "lat" : 45.26
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.99, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(70), 
+        "temp_min" : 278.15, 
+        "temp_max" : 282.59
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 2.6, 
+        "deg" : 230.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552550165), 
+    "sys" : {
+        "_id" : NumberLong(7030), 
+        "type" : NumberLong(1), 
+        "message" : 0.0037, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539317), 
+        "sunset" : NumberLong(1552581902)
+    }, 
+    "name" : "Novi Sad", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.509+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.509+0000"), 
+            "temperature" : 279.99
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "789128", 
+    "coord" : {
+        "lon" : 20.91, 
+        "lat" : 44.01
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.15, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 277.15, 
+        "temp_max" : 277.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 0.5
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7029), 
+        "type" : NumberLong(1), 
+        "message" : 0.0034, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539043), 
+        "sunset" : NumberLong(1552581665)
+    }, 
+    "name" : "Kragujevac", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.512+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.512+0000"), 
+            "temperature" : 277.15
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "787657", 
+    "coord" : {
+        "lon" : 21.9, 
+        "lat" : 43.32
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(801), 
+            "main" : "Clouds", 
+            "description" : "few clouds", 
+            "icon" : "02d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.45, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 277.15, 
+        "temp_max" : 279.26
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 1.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(20)
+    }, 
+    "dt" : NumberLong(1552550239), 
+    "sys" : {
+        "_id" : NumberLong(7031), 
+        "type" : NumberLong(1), 
+        "message" : 0.0052, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552538795), 
+        "sunset" : NumberLong(1552581437)
+    }, 
+    "name" : "Nis", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.514+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.514+0000"), 
+            "temperature" : 278.45
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "3195890", 
+    "coord" : {
+        "lon" : 17.11, 
+        "lat" : 43.38
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.22, 
+        "pressure" : 1012.0, 
+        "humidity" : NumberLong(75), 
+        "temp_min" : 278.71, 
+        "temp_max" : 280.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 2.1, 
+        "deg" : 20.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(6387), 
+        "type" : NumberLong(1), 
+        "message" : 0.0052, 
+        "country" : "HR", 
+        "sunrise" : NumberLong(1552539944), 
+        "sunset" : NumberLong(1552582587)
+    }, 
+    "name" : "Krusevac", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.516+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.516+0000"), 
+            "temperature" : 279.22
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "792078", 
+    "coord" : {
+        "lon" : 20.34, 
+        "lat" : 43.89
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 275.0, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 273.15, 
+        "temp_max" : 277.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 0.5
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7029), 
+        "type" : NumberLong(1), 
+        "message" : 0.0044, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539178), 
+        "sunset" : NumberLong(1552581804)
+    }, 
+    "name" : "Cacak", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.519+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.519+0000"), 
+            "temperature" : 275.0
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "3189595", 
+    "coord" : {
+        "lon" : 19.66, 
+        "lat" : 46.1
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 280.99, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(60), 
+        "temp_min" : 279.15, 
+        "temp_max" : 282.04
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 1.5, 
+        "deg" : 170.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552550113), 
+    "sys" : {
+        "_id" : NumberLong(6677), 
+        "type" : NumberLong(1), 
+        "message" : 0.0035, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539376), 
+        "sunset" : NumberLong(1552581935)
+    }, 
+    "name" : "Subotica", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.521+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.521+0000"), 
+            "temperature" : 280.99
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "788709", 
+    "coord" : {
+        "lon" : 21.95, 
+        "lat" : 43.0
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(801), 
+            "main" : "Clouds", 
+            "description" : "few clouds", 
+            "icon" : "02d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 278.35, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 277.15, 
+        "temp_max" : 279.26
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 1.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(20)
+    }, 
+    "dt" : NumberLong(1552550360), 
+    "sys" : {
+        "_id" : NumberLong(7031), 
+        "type" : NumberLong(1), 
+        "message" : 0.0043, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552538778), 
+        "sunset" : NumberLong(1552581430)
+    }, 
+    "name" : "Leskovac", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.523+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.523+0000"), 
+            "temperature" : 278.35
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "784227", 
+    "coord" : {
+        "lon" : 21.9, 
+        "lat" : 42.55
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(803), 
+            "main" : "Clouds", 
+            "description" : "broken clouds", 
+            "icon" : "04d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 276.86, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(69), 
+        "temp_min" : 275.93, 
+        "temp_max" : 277.59
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 1.0, 
+        "deg" : 220.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(75)
+    }, 
+    "dt" : NumberLong(1552550358), 
+    "sys" : {
+        "_id" : NumberLong(7023), 
+        "type" : NumberLong(1), 
+        "message" : 0.0037, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552538783), 
+        "sunset" : NumberLong(1552581448)
+    }, 
+    "name" : "Vranje", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.525+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.525+0000"), 
+            "temperature" : 276.86
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "784873", 
+    "coord" : {
+        "lon" : 21.0, 
+        "lat" : 43.62
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.15, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 277.15, 
+        "temp_max" : 277.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 0.5
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7029), 
+        "type" : NumberLong(1), 
+        "message" : 0.0039, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539015), 
+        "sunset" : NumberLong(1552581649)
+    }, 
+    "name" : "Trstenik", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.527+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.527+0000"), 
+            "temperature" : 277.15
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "3187297", 
+    "coord" : {
+        "lon" : 19.64, 
+        "lat" : 45.57
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 281.1, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(75), 
+        "temp_min" : 279.15, 
+        "temp_max" : 282.59
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 6.2, 
+        "deg" : 290.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552550165), 
+    "sys" : {
+        "_id" : NumberLong(6384), 
+        "type" : NumberLong(1), 
+        "message" : 0.004, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539372), 
+        "sunset" : NumberLong(1552581948)
+    }, 
+    "name" : "Vrbas", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.529+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.529+0000"), 
+            "temperature" : 281.1
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "783814", 
+    "coord" : {
+        "lon" : 20.39, 
+        "lat" : 45.38
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 280.04, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(70), 
+        "temp_min" : 278.15, 
+        "temp_max" : 282.59
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 2.6, 
+        "deg" : 230.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552550165), 
+    "sys" : {
+        "_id" : NumberLong(7030), 
+        "type" : NumberLong(1), 
+        "message" : 0.0067, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539189), 
+        "sunset" : NumberLong(1552581771)
+    }, 
+    "name" : "Zrenjanin", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.531+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.531+0000"), 
+            "temperature" : 280.04
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "785756", 
+    "coord" : {
+        "lon" : 20.93, 
+        "lat" : 44.66
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.5, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(75), 
+        "temp_min" : 278.15, 
+        "temp_max" : 281.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 3.6, 
+        "deg" : 250.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7028), 
+        "type" : NumberLong(1), 
+        "message" : 0.0059, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539048), 
+        "sunset" : NumberLong(1552581651)
+    }, 
+    "name" : "Smederevo", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.534+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.534+0000"), 
+            "temperature" : 279.5
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "786827", 
+    "coord" : {
+        "lon" : 21.19, 
+        "lat" : 44.62
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(801), 
+            "main" : "Clouds", 
+            "description" : "few clouds", 
+            "icon" : "02d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 281.15, 
+        "pressure" : 1012.0, 
+        "humidity" : NumberLong(45), 
+        "temp_min" : 281.15, 
+        "temp_max" : 281.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 6.2, 
+        "deg" : 140.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(20)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7045), 
+        "type" : NumberLong(1), 
+        "message" : 0.0453, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552538985), 
+        "sunset" : NumberLong(1552581589)
+    }, 
+    "name" : "Pozarevac", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.536+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.536+0000"), 
+            "temperature" : 281.15
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "793111", 
+    "coord" : {
+        "lon" : 20.56, 
+        "lat" : 44.31
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 277.66, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 277.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 0.5
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7029), 
+        "type" : NumberLong(1), 
+        "message" : 0.0045, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539131), 
+        "sunset" : NumberLong(1552581745)
+    }, 
+    "name" : "Arandjelovac", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.538+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.538+0000"), 
+            "temperature" : 277.66
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "3188402", 
+    "coord" : {
+        "lon" : 19.89, 
+        "lat" : 44.27
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 275.82, 
+        "pressure" : 1011.0, 
+        "humidity" : NumberLong(64), 
+        "temp_min" : 273.15, 
+        "temp_max" : 278.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 4.6, 
+        "deg" : 310.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7042), 
+        "type" : NumberLong(1), 
+        "message" : 0.0124, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539291), 
+        "sunset" : NumberLong(1552581907)
+    }, 
+    "name" : "Valjevo", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.541+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.541+0000"), 
+            "temperature" : 275.82
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "790367", 
+    "coord" : {
+        "lon" : 20.46, 
+        "lat" : 44.02
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(802), 
+            "main" : "Clouds", 
+            "description" : "scattered clouds", 
+            "icon" : "03d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 274.96, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(80), 
+        "temp_min" : 273.15, 
+        "temp_max" : 277.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 0.5
+    }, 
+    "clouds" : {
+        "all" : NumberLong(40)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(7029), 
+        "type" : NumberLong(1), 
+        "message" : 0.0037, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539151), 
+        "sunset" : NumberLong(1552581773)
+    }, 
+    "name" : "Gornji Milanovac", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.543+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.543+0000"), 
+            "temperature" : 274.96
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "789518", 
+    "coord" : {
+        "lon" : 20.46, 
+        "lat" : 45.83
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 280.54, 
+        "pressure" : 1012.0, 
+        "humidity" : NumberLong(48), 
+        "temp_min" : 279.15, 
+        "temp_max" : 281.48
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 1.5, 
+        "deg" : 70.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552550316), 
+    "sys" : {
+        "_id" : NumberLong(6926), 
+        "type" : NumberLong(1), 
+        "message" : 0.0204, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539180), 
+        "sunset" : NumberLong(1552581747)
+    }, 
+    "name" : "Kikinda", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.546+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.546+0000"), 
+            "temperature" : 280.54
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+},
+{ 
+    "_id" : "3190342", 
+    "coord" : {
+        "lon" : 19.11, 
+        "lat" : 45.77
+    }, 
+    "weather" : [
+        {
+            "_id" : NumberLong(800), 
+            "main" : "Clear", 
+            "description" : "clear sky", 
+            "icon" : "01d"
+        }
+    ], 
+    "base" : "stations", 
+    "main" : {
+        "temp" : 279.15, 
+        "pressure" : 1013.0, 
+        "humidity" : NumberLong(75), 
+        "temp_min" : 279.15, 
+        "temp_max" : 279.15
+    }, 
+    "visibility" : NumberLong(10000), 
+    "wind" : {
+        "speed" : 6.2, 
+        "deg" : 290.0
+    }, 
+    "clouds" : {
+        "all" : NumberLong(0)
+    }, 
+    "dt" : NumberLong(1552548600), 
+    "sys" : {
+        "_id" : NumberLong(6384), 
+        "type" : NumberLong(1), 
+        "message" : 0.0042, 
+        "country" : "RS", 
+        "sunrise" : NumberLong(1552539503), 
+        "sunset" : NumberLong(1552582072)
+    }, 
+    "name" : "Sombor", 
+    "lastWeatherInformation" : ISODate("2019-03-14T08:00:04.548+0000"), 
+    "savedTemperatures" : [
+        {
+            "measured" : ISODate("2019-03-14T08:00:04.548+0000"), 
+            "temperature" : 279.15
+        }
+    ], 
+    "_class" : "com.example.demo.entity.City"
+}
+]

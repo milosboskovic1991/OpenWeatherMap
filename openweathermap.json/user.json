@@ -1,0 +1,10 @@
+[
+{ 
+    "_id" : ObjectId("5c8a005a8365691294816bad"), 
+    "name" : "Marko", 
+    "surname" : "Markovic", 
+    "email" : "marko@gmail.com", 
+    "password" : "qwerty", 
+    "_class" : "com.example.demo.entity.User"
+}
+]
